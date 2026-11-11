@@ -1,0 +1,14 @@
+datasets
+scikit-learn
+pandas
+plotly
+streamlit
+pydantic
+pytest
+transformers
+peft
+accelerate
+torch
+curatorkit
+auditkit[transformers]
+# AlignTune is installed from source, see README
