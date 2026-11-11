@@ -81,7 +81,7 @@ This validation prevents an unknown label from being silently treated as a valid
 
 ## Links
 
--  **Code:** 
+-  **Code:** https://github.com/jyoshna-jilagam/TicketTriage-AI
 - **Base model:** https://huggingface.co/CohereLabs/tiny-aya-global
 - **Model collection:** https://huggingface.co/collections/jyoshna25/tickettriage-ai-models-6af41999e53dd13fc3fd8437
 - **Dataset and reports collection:**https://huggingface.co/collections/jyoshna25/tickettriage-ai-datasets-6af4199a0243b7731f6bd7ca
